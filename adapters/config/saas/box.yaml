@@ -1,0 +1,5 @@
+id: box
+display_name: Box
+kind: statuspage
+subdomain: status.box.com
+poll_interval_seconds: 60

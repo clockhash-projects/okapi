@@ -1,0 +1,5 @@
+id: mongodb
+display_name: MongoDB
+kind: statuspage
+subdomain: status.mongodb.com
+poll_interval_seconds: 60

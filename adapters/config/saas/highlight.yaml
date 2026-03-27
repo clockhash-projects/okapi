@@ -1,0 +1,5 @@
+id: highlight
+display_name: Highlight.io
+kind: http
+subdomain: https://status.highlight.io
+poll_interval_seconds: 60

@@ -1,0 +1,5 @@
+id: pypi
+display_name: PyPI
+kind: statuspage
+subdomain: status.python.org
+poll_interval_seconds: 60

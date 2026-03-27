@@ -1,0 +1,5 @@
+id: sendgrid
+display_name: SendGrid
+kind: statuspage
+subdomain: status.sendgrid.com
+poll_interval_seconds: 60

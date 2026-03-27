@@ -1,0 +1,5 @@
+id: notion
+display_name: Notion
+kind: statuspage
+subdomain: www.notion-status.com
+poll_interval_seconds: 60

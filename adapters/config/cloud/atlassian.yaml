@@ -1,0 +1,5 @@
+id: atlassian
+display_name: Atlassian
+kind: statuspage
+subdomain: status.atlassian.com
+poll_interval_seconds: 60

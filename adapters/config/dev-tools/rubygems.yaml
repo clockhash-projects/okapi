@@ -1,0 +1,5 @@
+id: rubygems
+display_name: RubyGems
+kind: statuspage
+subdomain: status.rubygems.org
+poll_interval_seconds: 60

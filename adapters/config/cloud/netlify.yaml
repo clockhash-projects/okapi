@@ -1,0 +1,5 @@
+id: netlify
+display_name: Netlify
+kind: statuspage
+subdomain: www.netlifystatus.com
+poll_interval_seconds: 60

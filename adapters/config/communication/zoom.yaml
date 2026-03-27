@@ -1,0 +1,5 @@
+id: zoom
+display_name: Zoom
+kind: statuspage
+subdomain: status.zoom.us
+poll_interval_seconds: 60

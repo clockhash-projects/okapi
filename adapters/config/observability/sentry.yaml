@@ -1,0 +1,5 @@
+id: sentry
+display_name: Sentry
+kind: statuspage
+subdomain: status.sentry.io
+poll_interval_seconds: 60

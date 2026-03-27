@@ -1,0 +1,5 @@
+id: retool
+display_name: Retool
+kind: statuspage
+subdomain: status.retool.com
+poll_interval_seconds: 60

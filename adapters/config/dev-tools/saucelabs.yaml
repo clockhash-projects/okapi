@@ -1,0 +1,5 @@
+id: saucelabs
+display_name: Sauce Labs
+kind: statuspage
+subdomain: status.saucelabs.com
+poll_interval_seconds: 60

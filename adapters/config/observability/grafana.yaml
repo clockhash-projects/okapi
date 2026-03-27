@@ -1,0 +1,5 @@
+id: grafana
+display_name: Grafana
+kind: statuspage
+subdomain: status.grafana.com
+poll_interval_seconds: 60

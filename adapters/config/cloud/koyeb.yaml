@@ -1,0 +1,5 @@
+id: koyeb
+display_name: Koyeb
+kind: statuspage
+subdomain: status.koyeb.com
+poll_interval_seconds: 60

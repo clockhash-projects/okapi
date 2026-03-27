@@ -1,0 +1,5 @@
+id: postman
+display_name: Postman
+kind: statuspage
+subdomain: status.postman.com
+poll_interval_seconds: 60

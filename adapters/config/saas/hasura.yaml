@@ -1,0 +1,5 @@
+id: hasura
+display_name: Hasura
+kind: statuspage
+subdomain: hasura.statuspage.io
+poll_interval_seconds: 60

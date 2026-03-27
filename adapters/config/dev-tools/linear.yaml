@@ -1,0 +1,5 @@
+id: linear
+display_name: Linear
+kind: rss
+url: https://linearstatus.com/history.rss
+poll_interval_seconds: 60

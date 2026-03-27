@@ -1,0 +1,37 @@
+server:
+  port: 8080
+  read_timeout_seconds: 10
+  write_timeout_seconds: 30
+
+auth:
+  enabled: false          # Set to true to enable API Key authentication
+  api_keys:
+    - my-secret-key
+    - another-key-for-ci
+
+cache:
+  backend: redis          # memory | redis
+  redis_url: redis://localhost:6379
+  default_ttl_seconds: 60
+
+polling:
+  default_interval_seconds: 60
+  jitter_seconds: 10
+
+history:
+  enabled: true
+  retention_hours: 168
+  storage: postgres       # postgres
+  postgres_url: postgres://user:pass@localhost:5432/okapi?sslmode=disable
+
+log:
+  level: info
+  format: json
+
+cors:
+  allowed_origins:
+    - "http://localhost:8080"
+    - "http://localhost:3000"
+    - "https://okapi.clockhash.com"
+    - "https://*.okapi.clockhash.com"
+    - "https://*.clockhash.com"

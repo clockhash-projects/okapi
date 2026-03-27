@@ -1,0 +1,40 @@
+# Build Artifacts
+tmp/
+bin/
+healthproxy
+*.exe
+*.test
+*.prof
+coverage.out
+
+# Local Config and Secrets
+config.yaml
+.env
+*.env
+data/
+*.db
+*.log
+
+# Git
+.git
+.gitignore
+
+# Documentation
+README.md
+LICENSE
+CONTRIBUTING.md
+docs/
+
+# CI/CD and Tools
+.github/
+.air.toml
+Dockerfile
+docker-compose*.yaml
+podman-compose.yaml
+
+# IDEs
+.vscode/
+.idea/
+.history/
+*.swp
+*~

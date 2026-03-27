@@ -1,0 +1,5 @@
+id: trello
+display_name: Trello
+kind: statuspage
+subdomain: status.trello.com
+poll_interval_seconds: 60

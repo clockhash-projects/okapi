@@ -1,0 +1,5 @@
+id: clerk
+display_name: Clerk
+kind: statuspage
+subdomain: status.clerk.dev
+poll_interval_seconds: 60

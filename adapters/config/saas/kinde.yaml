@@ -1,0 +1,5 @@
+id: kinde
+display_name: Kinde
+kind: statuspage
+subdomain: status.kinde.com
+poll_interval_seconds: 60

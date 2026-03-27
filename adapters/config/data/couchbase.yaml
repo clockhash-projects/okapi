@@ -1,0 +1,5 @@
+id: couchbase
+display_name: Couchbase
+kind: statuspage
+subdomain: status.couchbase.com
+poll_interval_seconds: 60

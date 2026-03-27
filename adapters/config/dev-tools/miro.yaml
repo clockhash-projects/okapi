@@ -1,0 +1,5 @@
+id: miro
+display_name: Miro
+kind: statuspage
+subdomain: status.miro.com
+poll_interval_seconds: 60

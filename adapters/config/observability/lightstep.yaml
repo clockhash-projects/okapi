@@ -1,0 +1,5 @@
+id: lightstep
+display_name: Lightstep
+kind: statuspage
+subdomain: status.lightstep.com
+poll_interval_seconds: 60

@@ -1,0 +1,5 @@
+id: ngrok
+display_name: Ngrok
+kind: statuspage
+subdomain: status.ngrok.com
+poll_interval_seconds: 60

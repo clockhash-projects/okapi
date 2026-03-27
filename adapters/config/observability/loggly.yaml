@@ -1,0 +1,5 @@
+id: loggly
+display_name: Loggly
+kind: statuspage
+subdomain: status.loggly.com
+poll_interval_seconds: 60

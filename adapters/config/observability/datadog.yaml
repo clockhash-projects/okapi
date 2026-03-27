@@ -1,0 +1,5 @@
+id: datadog
+display_name: Datadog
+kind: statuspage
+subdomain: status.datadoghq.com
+poll_interval_seconds: 60

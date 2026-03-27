@@ -1,0 +1,5 @@
+id: stackblitz
+display_name: StackBlitz
+kind: http
+subdomain: https://stackblitz.com/api/ping
+poll_interval_seconds: 60

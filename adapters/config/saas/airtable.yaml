@@ -1,0 +1,5 @@
+id: airtable
+display_name: Airtable
+kind: statuspage
+subdomain: status.airtable.com
+poll_interval_seconds: 60

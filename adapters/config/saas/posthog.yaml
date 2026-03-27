@@ -1,0 +1,5 @@
+id: posthog
+display_name: PostHog
+kind: statuspage
+subdomain: www.posthogstatus.com
+poll_interval_seconds: 60

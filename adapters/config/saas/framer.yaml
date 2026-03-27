@@ -1,0 +1,5 @@
+id: framer
+display_name: Framer
+kind: rss
+url: https://www.framerstatus.com/feed
+poll_interval_seconds: 60

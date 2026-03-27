@@ -1,0 +1,5 @@
+id: webflow
+display_name: Webflow
+kind: statuspage
+subdomain: status.webflow.com
+poll_interval_seconds: 60

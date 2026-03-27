@@ -1,0 +1,5 @@
+id: render
+display_name: Render
+kind: statuspage
+subdomain: status.render.com
+poll_interval_seconds: 60

@@ -1,0 +1,5 @@
+id: front
+display_name: Front
+kind: statuspage
+subdomain: status.frontapp.com
+poll_interval_seconds: 60

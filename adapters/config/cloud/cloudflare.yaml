@@ -1,0 +1,5 @@
+id: cloudflare
+display_name: Cloudflare
+kind: statuspage
+subdomain: www.cloudflarestatus.com
+poll_interval_seconds: 60

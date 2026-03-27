@@ -1,0 +1,5 @@
+id: shopify
+display_name: Shopify
+kind: statuspage
+subdomain: status.shopify.com
+poll_interval_seconds: 60

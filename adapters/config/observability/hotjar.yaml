@@ -1,0 +1,5 @@
+id: hotjar
+display_name: Hotjar
+kind: statuspage
+subdomain: status.hotjar.com
+poll_interval_seconds: 60

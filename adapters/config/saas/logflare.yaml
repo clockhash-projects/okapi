@@ -1,0 +1,5 @@
+id: logflare
+display_name: Logflare
+kind: http
+subdomain: https://logflare.app/system-status
+poll_interval_seconds: 60

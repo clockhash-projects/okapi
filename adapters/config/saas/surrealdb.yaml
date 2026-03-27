@@ -1,0 +1,5 @@
+id: surrealdb
+display_name: SurrealDB
+kind: rss
+url: https://status.surrealdb.com/feed
+poll_interval_seconds: 60

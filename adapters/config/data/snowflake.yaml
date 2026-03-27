@@ -1,0 +1,5 @@
+id: snowflake
+display_name: Snowflake
+kind: statuspage
+subdomain: status.snowflake.com
+poll_interval_seconds: 60

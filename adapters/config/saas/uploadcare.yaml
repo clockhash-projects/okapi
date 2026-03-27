@@ -1,0 +1,5 @@
+id: uploadcare
+display_name: Uploadcare
+kind: statuspage
+subdomain: status.uploadcare.com
+poll_interval_seconds: 60

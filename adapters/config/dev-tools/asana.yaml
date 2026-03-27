@@ -1,0 +1,5 @@
+id: asana
+display_name: Asana
+kind: statuspage
+subdomain: status.asana.com
+poll_interval_seconds: 60

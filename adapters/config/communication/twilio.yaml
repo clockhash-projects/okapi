@@ -1,0 +1,5 @@
+id: twilio
+display_name: Twilio
+kind: statuspage
+subdomain: status.twilio.com
+poll_interval_seconds: 60

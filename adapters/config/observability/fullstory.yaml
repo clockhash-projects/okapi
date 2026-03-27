@@ -1,0 +1,5 @@
+id: fullstory
+display_name: FullStory
+kind: statuspage
+subdomain: status.fullstory.com
+poll_interval_seconds: 60

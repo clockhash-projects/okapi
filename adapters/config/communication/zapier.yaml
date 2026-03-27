@@ -1,0 +1,5 @@
+id: zapier
+display_name: Zapier
+kind: statuspage
+subdomain: status.zapier.com
+poll_interval_seconds: 60

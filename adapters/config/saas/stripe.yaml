@@ -1,0 +1,5 @@
+id: stripe
+display_name: Stripe
+kind: statuspage
+subdomain: www.stripestatus.com
+poll_interval_seconds: 60

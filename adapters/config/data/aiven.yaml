@@ -1,0 +1,5 @@
+id: aiven
+display_name: Aiven
+kind: statuspage
+subdomain: status.aiven.io
+poll_interval_seconds: 60

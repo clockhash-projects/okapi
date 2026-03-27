@@ -1,0 +1,5 @@
+id: frontegg
+display_name: Frontegg
+kind: statuspage
+subdomain: status.frontegg.com
+poll_interval_seconds: 60

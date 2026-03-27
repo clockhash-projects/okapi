@@ -1,0 +1,5 @@
+id: cloudinary
+display_name: Cloudinary
+kind: statuspage
+subdomain: status.cloudinary.com
+poll_interval_seconds: 60

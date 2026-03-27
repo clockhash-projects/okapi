@@ -1,0 +1,5 @@
+id: postmark
+display_name: Postmark
+kind: statuspage
+subdomain: status.postmarkapp.com
+poll_interval_seconds: 60

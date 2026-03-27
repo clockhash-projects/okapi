@@ -1,0 +1,5 @@
+id: openai
+display_name: OpenAI
+kind: statuspage
+subdomain: status.openai.com
+poll_interval_seconds: 60

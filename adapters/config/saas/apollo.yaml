@@ -1,0 +1,5 @@
+id: apollo
+display_name: Apollo GraphQL
+kind: statuspage
+subdomain: status.apollographql.com
+poll_interval_seconds: 60

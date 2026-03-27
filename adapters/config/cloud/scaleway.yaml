@@ -1,0 +1,5 @@
+id: scaleway
+display_name: Scaleway
+kind: statuspage
+subdomain: status.scaleway.com
+poll_interval_seconds: 60

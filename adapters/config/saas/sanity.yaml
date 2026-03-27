@@ -1,0 +1,5 @@
+id: sanity
+display_name: Sanity
+kind: statuspage
+subdomain: status.sanity.io
+poll_interval_seconds: 60

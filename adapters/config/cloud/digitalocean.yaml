@@ -1,0 +1,5 @@
+id: digitalocean
+display_name: DigitalOcean
+kind: statuspage
+subdomain: status.digitalocean.com
+poll_interval_seconds: 60

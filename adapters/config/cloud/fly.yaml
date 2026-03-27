@@ -1,0 +1,5 @@
+id: fly
+display_name: Fly.io
+kind: statuspage
+subdomain: status.fly.io
+poll_interval_seconds: 60

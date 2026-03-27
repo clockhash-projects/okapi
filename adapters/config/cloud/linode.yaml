@@ -1,0 +1,5 @@
+id: linode
+display_name: Linode
+kind: statuspage
+subdomain: status.linode.com
+poll_interval_seconds: 60

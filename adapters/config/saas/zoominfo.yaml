@@ -1,0 +1,5 @@
+id: zoominfo
+display_name: ZoomInfo
+kind: statuspage
+subdomain: status.zoominfo.com
+poll_interval_seconds: 60

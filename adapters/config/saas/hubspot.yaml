@@ -1,0 +1,5 @@
+id: hubspot
+display_name: HubSpot
+kind: statuspage
+subdomain: status.hubspot.com
+poll_interval_seconds: 60

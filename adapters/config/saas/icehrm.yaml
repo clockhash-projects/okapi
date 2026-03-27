@@ -1,0 +1,5 @@
+id: icehrm
+display_name: IceHrm
+kind: http
+subdomain: https://icehrm.com
+poll_interval_seconds: 60

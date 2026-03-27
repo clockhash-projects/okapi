@@ -1,0 +1,5 @@
+id: anthropic
+display_name: Anthropic
+kind: statuspage
+subdomain: status.anthropic.com
+poll_interval_seconds: 60

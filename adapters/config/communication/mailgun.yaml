@@ -1,0 +1,5 @@
+id: mailgun
+display_name: Mailgun
+kind: statuspage
+subdomain: status.mailgun.com
+poll_interval_seconds: 60

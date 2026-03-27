@@ -1,0 +1,5 @@
+id: dropbox
+display_name: Dropbox
+kind: statuspage
+subdomain: status.dropbox.com
+poll_interval_seconds: 60

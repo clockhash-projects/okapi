@@ -1,0 +1,5 @@
+id: snyk
+display_name: Snyk
+kind: statuspage
+subdomain: status.snyk.io
+poll_interval_seconds: 60

@@ -1,0 +1,5 @@
+id: pubnub
+display_name: PubNub
+kind: statuspage
+subdomain: status.pubnub.com
+poll_interval_seconds: 60

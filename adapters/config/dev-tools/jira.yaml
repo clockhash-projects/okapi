@@ -1,0 +1,5 @@
+id: jira
+display_name: Jira
+kind: statuspage
+subdomain: status.atlassian.com
+poll_interval_seconds: 60

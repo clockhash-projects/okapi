@@ -1,0 +1,5 @@
+id: npm
+display_name: NPM
+kind: statuspage
+subdomain: status.npmjs.org
+poll_interval_seconds: 60

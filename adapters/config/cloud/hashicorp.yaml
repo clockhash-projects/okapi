@@ -1,0 +1,5 @@
+id: hashicorp
+display_name: HashiCorp
+kind: statuspage
+subdomain: status.hashicorp.com
+poll_interval_seconds: 60

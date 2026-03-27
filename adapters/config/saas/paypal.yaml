@@ -1,0 +1,5 @@
+id: paypal
+display_name: PayPal
+kind: rss
+url: https://www.paypal-status.com/feed/rss
+poll_interval_seconds: 60

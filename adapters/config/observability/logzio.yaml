@@ -1,0 +1,5 @@
+id: logzio
+display_name: Logz.io
+kind: statuspage
+subdomain: status.logz.io
+poll_interval_seconds: 60

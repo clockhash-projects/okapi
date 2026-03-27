@@ -1,0 +1,5 @@
+id: vercel
+display_name: Vercel
+kind: statuspage
+subdomain: www.vercel-status.com
+poll_interval_seconds: 60

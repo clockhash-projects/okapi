@@ -1,0 +1,5 @@
+id: mixpanel
+display_name: Mixpanel
+kind: statuspage
+subdomain: status.mixpanel.com
+poll_interval_seconds: 60

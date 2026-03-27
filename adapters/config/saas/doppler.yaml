@@ -1,0 +1,5 @@
+id: doppler
+display_name: Doppler
+kind: statuspage
+subdomain: status.doppler.com
+poll_interval_seconds: 60

@@ -1,0 +1,5 @@
+id: victorops
+display_name: VictorOps
+kind: statuspage
+subdomain: status.victorops.com
+poll_interval_seconds: 60

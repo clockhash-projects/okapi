@@ -1,0 +1,5 @@
+id: opsgenie
+display_name: Opsgenie
+kind: statuspage
+subdomain: status.opsgenie.com
+poll_interval_seconds: 60

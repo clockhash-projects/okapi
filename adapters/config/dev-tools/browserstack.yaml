@@ -1,0 +1,5 @@
+id: browserstack
+display_name: BrowserStack
+kind: statuspage
+subdomain: status.browserstack.com
+poll_interval_seconds: 60

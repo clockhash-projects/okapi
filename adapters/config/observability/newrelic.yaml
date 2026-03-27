@@ -1,0 +1,5 @@
+id: newrelic
+display_name: New Relic
+kind: statuspage
+subdomain: status.newrelic.com
+poll_interval_seconds: 60

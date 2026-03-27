@@ -1,0 +1,5 @@
+id: elastic
+display_name: Elastic
+kind: statuspage
+subdomain: status.elastic.co
+poll_interval_seconds: 60

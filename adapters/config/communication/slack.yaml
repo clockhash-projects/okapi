@@ -1,0 +1,5 @@
+id: slack
+display_name: Slack
+kind: rss
+url: https://status.slack.com/feed/rss
+poll_interval_seconds: 60

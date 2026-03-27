@@ -1,0 +1,5 @@
+id: docker
+display_name: Docker
+kind: http
+subdomain: https://status.docker.com
+poll_interval_seconds: 60

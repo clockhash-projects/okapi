@@ -1,0 +1,5 @@
+id: neo4j
+display_name: Neo4j
+kind: statuspage
+subdomain: status.neo4j.io
+poll_interval_seconds: 60

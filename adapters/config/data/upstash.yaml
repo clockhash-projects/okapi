@@ -1,0 +1,5 @@
+id: upstash
+display_name: Upstash
+kind: statuspage
+subdomain: status.upstash.com
+poll_interval_seconds: 60

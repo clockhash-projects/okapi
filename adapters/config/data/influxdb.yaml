@@ -1,0 +1,5 @@
+id: influxdb
+display_name: InfluxDB
+kind: statuspage
+subdomain: status.influxdata.com
+poll_interval_seconds: 60

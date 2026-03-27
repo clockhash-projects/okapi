@@ -1,0 +1,5 @@
+id: redis
+display_name: Redis
+kind: statuspage
+subdomain: status.redis.io
+poll_interval_seconds: 60

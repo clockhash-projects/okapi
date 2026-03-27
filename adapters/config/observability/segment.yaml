@@ -1,0 +1,5 @@
+id: segment
+display_name: Segment
+kind: statuspage
+subdomain: status.segment.com
+poll_interval_seconds: 60

@@ -1,0 +1,5 @@
+id: launchdarkly
+display_name: LaunchDarkly
+kind: statuspage
+subdomain: status.launchdarkly.com
+poll_interval_seconds: 60

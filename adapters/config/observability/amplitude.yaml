@@ -1,0 +1,5 @@
+id: amplitude
+display_name: Amplitude
+kind: statuspage
+subdomain: status.amplitude.com
+poll_interval_seconds: 60

@@ -1,0 +1,5 @@
+id: fastly
+display_name: Fastly
+kind: rss
+url: https://www.fastlystatus.com/rss/
+poll_interval_seconds: 60

@@ -1,0 +1,5 @@
+id: bitbucket
+display_name: Bitbucket
+kind: statuspage
+subdomain: status.bitbucket.org
+poll_interval_seconds: 60
