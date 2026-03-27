@@ -40,11 +40,10 @@ Ensure you have Go 1.24+ installed.
 
 To get started with the open-source version:
 ```bash
-git clone <your-public-repo-url> okapi
+git clone git@github.com:clockhash-projects/okapi.git okapi
 cd okapi
 make build
 ```
-Replace `<your-public-repo-url>` with the actual URL of the public repository once it's hosted.
 
 ### 2. Configuration
 Copy the example configuration and adjust it to your needs.
