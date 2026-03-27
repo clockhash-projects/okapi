@@ -30,8 +30,9 @@ log:
 
 cors:
   allowed_origins:
+    # Allow requests from local development servers
     - "http://localhost:8080"
     - "http://localhost:3000"
-    - "https://okapi.clockhash.com"
-    - "https://*.okapi.clockhash.com"
-    - "https://*.clockhash.com"
+    # Add your own origins here, e.g.:
+    # - "https://yourdomain.com"
+    # - "https://*.yourdomain.com"
