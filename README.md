@@ -131,7 +131,6 @@ Access it by navigating to the root URL of your Okapi instance.
 ### Running Tests
 ```bash
 make test         # Run all unit tests
-make e2e          # Run end-to-end tests (requires Docker)
 make lint         # Run golangci-lint
 ```
 
