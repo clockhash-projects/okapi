@@ -128,6 +128,9 @@ Access it by navigating to the root URL of your Okapi instance.
 1. **Simple Statuspage/RSS:** Add a `.yaml` file to the appropriate subdirectory in `adapters/config/`.
 2. **Complex API:** Create a new adapter in `adapters/code/`, implement the `HealthAdapter` interface, and register it in `main.go`.
 
+### Development Workflow
+For a more streamlined development experience with hot-reloading, you can use `air`. Alternatively, if you have `pnpm` installed and prefer it, you may be able to use `pnpm dev` for development purposes.
+
 ### Running Tests
 ```bash
 make test         # Run all unit tests
